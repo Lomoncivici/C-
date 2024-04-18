@@ -1,0 +1,12 @@
+﻿<Window x:Class="Диспетчер.TaskDetailView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:TaskManager.ViewModels">
+    <UserControl.DataContext>
+        <vm:TaskDetailViewModel/>
+    </UserControl.DataContext>
+    <Grid Margin="10">
+        <!-- Task detail UI -->
+        <Button Content="Delete" Command="{Binding DeleteTaskCommand}" HorizontalAlignment="Right"/>
+    </Grid>
+</Window>
