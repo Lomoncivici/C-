@@ -1,0 +1,11 @@
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\CustomControlsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\CustomControlsLibrary.AssemblyInfoInputs.cache
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\CustomControlsLibrary.AssemblyInfo.cs
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\CustomControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\bin\Debug\net6.0\CustomControlsLibrary.deps.json
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\bin\Debug\net6.0\CustomControlsLibrary.dll
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\bin\Debug\net6.0\CustomControlsLibrary.pdb
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\CustomControlsLibrary.dll
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\refint\CustomControlsLibrary.dll
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\CustomControlsLibrary.pdb
+C:\Users\SystemX\source\repos\Test1\CustomControlsLibrary\obj\Debug\net6.0\ref\CustomControlsLibrary.dll
